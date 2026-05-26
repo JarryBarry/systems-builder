@@ -15,5 +15,9 @@ A lightweight, interactive Command Line Interface (CLI) calculator built in Pyth
 
 ## How to Run
 1. Open your terminal and navigate to this folder.
+
 2. Run the script using Python:
+
+   ```bash
    python calculator.py
+   ```
