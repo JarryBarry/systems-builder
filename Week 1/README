@@ -18,3 +18,4 @@ A lightweight, interactive Command Line Interface (CLI) calculator built in Pyth
 2. Run the script using Python:
    ```bash
    python calculator.py
+   ```
